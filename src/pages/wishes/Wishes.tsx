@@ -46,7 +46,7 @@ const messages = {
 const sampleMessagesDataArray: TMessagesData[] = [
   {
     albumArt: firstAlbumArt,
-    musicName: "Muskurane Ki Wajh Tum Ho ❤️ :)",
+    musicName: "Muskurane Ki Wajah ❤️ :)",
     messageInParas: [
       "Hey there Judy Walker, it's your birthday! Wishing you the happiest of birthdays filled with all the things you love and cherish the most.",
 
