@@ -10,12 +10,12 @@ import MusicCard from "../../components/MusicCard/MusicCard";
 import TMessagesData from "../../typings/MessagesData";
 
 // albumArts
-import firstAlbumArt from "../../assets/sampleData/first-album-art.webp";
-import secondAlbumArt from "../../assets/sampleData/second-album-art.webp";
+import firstAlbumArt from "../../assets/sampleData/boy-girl.jpg";
+import secondAlbumArt from "../../assets/sampleData/sing.jpg";
 
 // musicFilePaths
-import firstMusic from "../../assets/sampleData/music/night-city.mp3";
-import secondMusic from "../../assets/sampleData/music/almost-nothing.mp3";
+import firstMusic from "../../assets/sampleData/music/Muskurane.mp3";
+import secondMusic from "../../assets/sampleData/music/Mere Liye Tum Kaafi Ho.mp3";
 
 // framer transition and variants
 const commonTransition = {
@@ -49,8 +49,11 @@ const sampleMessagesDataArray: TMessagesData[] = [
     musicName: "Muskurane Ki Wajh Tum Ho ❤️ :)",
     messageInParas: [
       "Hey there Judy Walker, it's your birthday! Wishing you the happiest of birthdays filled with all the things you love and cherish the most.",
+
       "May this year be filled with lots of laughter, love, and unforgettable memories. I hope you get to spend your special day surrounded by the people you care about, doing all the things that make you happy.",
+      
       "Whether it's eating cake, opening presents, or just chilling out, I hope you have the best time ever. Here's to another year of being awesome, slaying the game, and living your best life.",
+      
       "You're a true gem, Judy, and I feel lucky to know you. Happy birthday and cheers to a fantastic year ahead!",
     ],
     musicFilePath: firstMusic,
@@ -60,10 +63,13 @@ const sampleMessagesDataArray: TMessagesData[] = [
     musicName: 'Tum Mere Liye Kaafi Ho ❤️ :)',
     messageInParas: [
       "Happy Birthday! On this special day, I hope that all of your dreams come true and that you are surrounded by love and happiness. You are a wonderful person who deserves nothing but the best, and I feel honored to be able to celebrate this special day with you.",
+
       "As you reflect on the past year and look forward to the next, I hope that you remember all of the amazing things that you have accomplished and the obstacles that you have overcome. Your determination and hard work inspire those around you, and I am grateful to have you in my life.",
+
       "May this birthday be just the beginning of a happy journey that will lead you to an even more amazing future. Enjoy your day to the fullest, and know that you are loved and appreciated by so many.",
       "Once again, happy birthday, Judy! Cheers to another year of laughter, love, and wonderful memories.",
       "Warm regards,",
+      
       "Anon",
     ],
     musicFilePath: secondMusic,
