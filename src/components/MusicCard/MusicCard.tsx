@@ -51,7 +51,7 @@ const MusicCard = ({
         <div className="flex p-2">
           <p className="music-name text-sm">{musicName}</p>
           <button
-            className="play-pause-btn border-white border-2 rounded-full w-24 text-center active:border-black text-sm"
+            className="play-pause-btn border-white border-2 rounded-full w-24 text-center active:border-black text-sm p-2"
             style={style}
             onClick={() => bootMusic()}
           >

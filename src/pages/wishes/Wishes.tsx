@@ -46,7 +46,7 @@ const messages = {
 const sampleMessagesDataArray: TMessagesData[] = [
   {
     albumArt: firstAlbumArt,
-    musicName: "Night City - R E L's Version",
+    musicName: "Muskurane Ki Wajh Tum Ho ❤️ :)",
     messageInParas: [
       "Hey there Judy Walker, it's your birthday! Wishing you the happiest of birthdays filled with all the things you love and cherish the most.",
       "May this year be filled with lots of laughter, love, and unforgettable memories. I hope you get to spend your special day surrounded by the people you care about, doing all the things that make you happy.",
@@ -57,7 +57,7 @@ const sampleMessagesDataArray: TMessagesData[] = [
   },
   {
     albumArt: secondAlbumArt,
-    musicName: 'Almost nothing - "Death Stranding" Ending Song',
+    musicName: 'Tum Mere Liye Kaafi Ho ❤️ :)',
     messageInParas: [
       "Happy Birthday! On this special day, I hope that all of your dreams come true and that you are surrounded by love and happiness. You are a wonderful person who deserves nothing but the best, and I feel honored to be able to celebrate this special day with you.",
       "As you reflect on the past year and look forward to the next, I hope that you remember all of the amazing things that you have accomplished and the obstacles that you have overcome. Your determination and hard work inspire those around you, and I am grateful to have you in my life.",
