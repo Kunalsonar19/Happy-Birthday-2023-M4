@@ -24,13 +24,13 @@ const Judy = () => {
         <p className=" text-xl">Shruberry ❤️</p>
         <div className="flex flex-col text-left">
           <Link to={"/wishes"} className="hover:underline">
-            Our Wishes
+            My Wishes
           </Link>
           <Link
-            to={"https://github.com/SomnathDas/lofty-leather"}
+            to={"https://github.com/Kunalsonar19/Happy-Birthday-2023-M4"}
             className="hover:underline"
           >
-            About this
+            About This
           </Link>
         </div>
       </motion.div>
