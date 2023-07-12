@@ -1,3 +1,19 @@
 .message {
   font-family: "Oswald";
 }
+
+html {
+  scroll-behavior: smooth;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #F4276C;
+  border-radius: 20px;
+}
