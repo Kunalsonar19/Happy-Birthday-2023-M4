@@ -1,6 +1,6 @@
 import "./Judy.css";
 
-import mainImage from "../../assets/saree.jpg";
+import mainImage from "../../assets/angry.jpg";
 import Marquee from "../../components/Marquee/Marquee";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
@@ -48,7 +48,7 @@ const Judy = () => {
         />
       </motion.div>
 
-      <motion.div className="w-48 md:w-72 m-10 overflow-hidden rounded-xl md:hidden">
+      <motion.div className="w-50 md:w-72 m-10 overflow-hidden rounded-xl md:hidden m-14 border-2 border-red-800">
         <motion.img
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
@@ -66,7 +66,7 @@ const Judy = () => {
         exit={{ opacity: 0 }}
         className="absolute bottom-0 mb-12 text-center md:hidden w-full underline flex flex-col"
       >
-        <Link to={"/wishes"}>Our Wishes</Link>
+        <Link to={"/wishes"}>My Wishes</Link>
         <Link to={"/about"}>About this</Link>
       </motion.div>
       {/* Mobile */}
@@ -99,7 +99,7 @@ const Judy = () => {
           src={mainImage}
           alt="Birthday person"
           className="relative select-none rounded-xl h-full object-cover"
-          style={{ objectPosition: "50% 35%" }}
+          style={{ objectPosition: "50% 15%" }}
           transition={{ delay: 0.2, ...transition }}
         />
       </motion.div>
