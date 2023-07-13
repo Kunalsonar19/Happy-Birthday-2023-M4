@@ -60,7 +60,7 @@ const sampleMessagesDataArray: TMessagesData[] = [
   },
   {
     albumArt: secondAlbumArt,
-    musicName: 'Tum Mere Liye Kaafi Ho ❤️ :)',
+    musicName: 'Mere Liye Tum Kaafi Ho ❤️ :)',
     messageInParas: [
       "Happy Birthday! On this special day, I hope that all of your dreams come true and that you are surrounded by love and happiness. You are a wonderful person who deserves nothing but the best, and I feel honored to be able to celebrate this special day with you.",
 
