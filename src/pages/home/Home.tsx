@@ -22,7 +22,7 @@ const Home = () => {
       </motion.div>
       {/* Mobile */}
       <Link
-        className="w-48 md:w-72 overflow-hidden rounded-xl md:hidden select-none"
+        className="w-50 md:w-72 overflow-hidden rounded-xl md:hidden select-none m-14"
         to={"/judy"}
       >
         <motion.img

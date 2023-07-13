@@ -28,7 +28,7 @@ const Judy = () => {
           </Link>
           <Link
             to={"https://github.com/Kunalsonar19/Happy-Birthday-2023-M4"}
-            className="hover:underline"
+            className="hover:underline "
           >
             About This
           </Link>
