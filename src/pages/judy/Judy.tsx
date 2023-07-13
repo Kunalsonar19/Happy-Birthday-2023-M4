@@ -48,7 +48,7 @@ const Judy = () => {
         />
       </motion.div>
 
-      <motion.div className="w-50 md:w-72 m-10 overflow-hidden rounded-xl md:hidden m-14 border-2 border-red-800">
+      <motion.div className="w-50 md:w-72 m-10 overflow-hidden rounded-xl md:hidden m-10">
         <motion.img
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
@@ -67,7 +67,7 @@ const Judy = () => {
         className="absolute bottom-0 mb-12 text-center md:hidden w-full underline flex flex-col"
       >
         <Link to={"/wishes"}>My Wishes</Link>
-        <Link to={"/about"}>About this</Link>
+        <Link to={"https://github.com/Kunalsonar19/Happy-Birthday-2023-M4"}>About This</Link>
       </motion.div>
       {/* Mobile */}
       <motion.div

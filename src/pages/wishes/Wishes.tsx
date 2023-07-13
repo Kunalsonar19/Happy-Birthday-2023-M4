@@ -48,13 +48,19 @@ const sampleMessagesDataArray: TMessagesData[] = [
     albumArt: firstAlbumArt,
     musicName: "Muskurane Ki Wajah ❤️ :)",
     messageInParas: [
-      "Hey there Judy Walker, it's your birthday! Wishing you the happiest of birthdays filled with all the things you love and cherish the most.",
+      "Hey Bachaa 🌟 ",
 
-      "May this year be filled with lots of laughter, love, and unforgettable memories. I hope you get to spend your special day surrounded by the people you care about, doing all the things that make you happy.",
-      
-      "Whether it's eating cake, opening presents, or just chilling out, I hope you have the best time ever. Here's to another year of being awesome, slaying the game, and living your best life.",
-      
-      "You're a true gem, Judy, and I feel lucky to know you. Happy birthday and cheers to a fantastic year ahead!",
+      "Sabse pehle toh play button dabao aur gana chaalu karo, fir niche message padhna!! Okk now Hope so tumhe mene banaye hue sabhi modules pasand aaye honge, I know mai jo bhi create karta hu vo tumhe achha hi lagta he. 🦄",
+
+      "But still I want to say that I love you so much and I am so lucky to have you in my life. You are the most wonderful person in the world, I hope that this birthday is the best one yet, and I hope your day is full of surprises. I love you so much, and I can't wait to spend many more birthdays with you. 👻",
+
+      "Already dinn bhar me tumne boht saari tareef sunn li hoogi apni lekin sach batau to tum ho vaisi haa kabhi kabhi track se utaar jaati ho lekin don't worry me hu naa tumhare saath, me tumhe hamesha track parr rakhunga aur khush bhi, I promise. 🍭 ",
+
+      "Aaj din bhar se english me baat chaal rahi he abhi achha laag raha he normal tone me baat karke finally mene jaise socha tha vaise hi birthday wish kiya mere 3+ months ka hardwork finally safal hua, lekin ye to kuchh bhi nahi abhi to boht kuchh karna he tumhare liye. 🐇",
+
+      "Areyy !! haa birthday gift toh bhool hi gaya dena tohh birthday gift chahiye side ke tab me dekh lena aur last me itna hi bolunga...",
+
+      "Muskurane Ki Wajah Tum Hoo 🐧 :)",
     ],
     musicFilePath: firstMusic,
   },
@@ -62,15 +68,17 @@ const sampleMessagesDataArray: TMessagesData[] = [
     albumArt: secondAlbumArt,
     musicName: 'Mere Liye Tum Kaafi Ho ❤️ :)',
     messageInParas: [
-      "Happy Birthday! On this special day, I hope that all of your dreams come true and that you are surrounded by love and happiness. You are a wonderful person who deserves nothing but the best, and I feel honored to be able to celebrate this special day with you.",
+      "You know what? jabb bhi me tumhare saath hoota hu tohh muze ekdam alag saa feel hoota he jise me words me describe nahi kar sakta bass yu samaz loo ki sukun aur shanti milti he dil ko. 💌",
 
-      "As you reflect on the past year and look forward to the next, I hope that you remember all of the amazing things that you have accomplished and the obstacles that you have overcome. Your determination and hard work inspire those around you, and I am grateful to have you in my life.",
+      "Me tumhare bina incomplete huu aur muze complete sirf tum karr sakti hoo, haa kabhi kabhi hum dono ke bich nokzok bhi hoo jaati he lekin kahi na kahi nokzok se bhi humara pyar aur strong hoo jata he. 🍧",
 
-      "May this birthday be just the beginning of a happy journey that will lead you to an even more amazing future. Enjoy your day to the fullest, and know that you are loved and appreciated by so many.",
-      "Once again, happy birthday, Judy! Cheers to another year of laughter, love, and wonderful memories.",
-      "Warm regards,",
-      
-      "Anon",
+      "Jaha tum galat jaaogi toh me sambhalunga aur jaha me galat jaaunga toh tum sambhalogi, lekin ek dusre ka haat kabhi nahi chhodenge, chahe kuchh bhi ho jaaye aur mere hote hue tumhe kisi aur ki zaroorat nahi. 🐼",
+
+      "Bass ab emotional maat hoona aasu tumhare aankho me achhe nahi lagte vo bhi mere hote hue, aur rahi baat gift ki jab milege tab de dunga ab ye bologi tum hi mere liye sab se bade gift ho toh aisa samazo ki ek bade gift ki taraf se ek chhota sa gift he bassss ab lenaa hi padega tumhe. 🐥",
+
+      "Aaj boht saari baate hoo gaayi he and thank youu ki tumne ghar par hote hue bhi saare msg and modules dekhe aur padhe bhii, I know humhare beech thank you nahi bola jata tohh, I Love You Ao Much and once again Happy Birthday Mahh Roshgulla. 🐰",
+
+      "Mere Liye Tum Kaafi Ho 🐧 :)",
     ],
     musicFilePath: secondMusic,
   },

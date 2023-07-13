@@ -1,6 +1,6 @@
 {
-  "name": "lofty-leather",
-  "private": true,
+  "name": "Kunal Sonar",
+  "private": false,
   "version": "0.0.1",
   "type": "module",
   "author": "Somnath Das",
@@ -13,6 +13,7 @@
   "dependencies": {
     "@roylee1997/react-palette": "^1.0.0",
     "framer-motion": "^10.12.16",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.13.0",
